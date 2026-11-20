@@ -72,7 +72,7 @@ Trả về đúng 2 phần:
   },
   "knowledge_gaps": []
 }
-2. Phần "Phản hồi của Gia sư Feynman" trình bày ngắn gọn, rõ ý bằng Markdown.
+
 
 ```
 
